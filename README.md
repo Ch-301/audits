@@ -1,7 +1,7 @@
 # audits
  Public profile of my smart contract security auditing journey!
 
- | Contest | Platform | Date | Contest | Platform | Date |
+ | Contest | Platform | Date | Rank | Report | Findings Number  |
 | :---         |     :---:      |     :---:     |     :---:    |     :---:      |          ---: |
-| git status   | git status     | git status    | git status   | git status     | git status    |
-| git diff     | git diff       | git diff      | git status   | git status     | git status    |
+| [Juicebox V2](https://code4rena.com/contests/2022-07-juicebox-v2-contest)     | Code4rena     |  July 2022    |  4th   | [Here]()     | 1 H/M (0 unique) + QA |
+
