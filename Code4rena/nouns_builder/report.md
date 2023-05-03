@@ -1,6 +1,9 @@
 # Nouns Builder
 A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.
 
+## Rank
+12th / 168
+
 ## High risk
 [H-01] https://github.com/code-423n4/2022-09-nouns-builder-findings/issues/564
 
