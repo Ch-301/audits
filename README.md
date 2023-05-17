@@ -18,4 +18,4 @@ I am available for smart contract private audits. Please reach out to me on:
 
 - Twitter    - [@0xch301](https://twitter.com/0xch301)
 - Discord   - [Ch_301#1702](https://discord.com/users/Ch_301#1702)
-- Telegram - [Ch_301](https://t.me/ChBahri)
+- Telegram - [Ch_301](https://t.me/Ch_301)
