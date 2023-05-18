@@ -5,7 +5,7 @@ Buffer Finance is a non-custodial, exotic options trading platform built to trad
 3th / 98
 
 ## High risk
-[H-01] [https://github.com/sherlock-audit/2022-10-merit-circle-judging/issues/43](https://github.com/sherlock-audit/2022-11-buffer-judging/issues/95)
 
 ## Med risk
+[M-01] [https://github.com/sherlock-audit/2022-10-merit-circle-judging/issues/43](https://github.com/sherlock-audit/2022-11-buffer-judging/issues/95)
 
