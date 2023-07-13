@@ -19,4 +19,6 @@ I am available for smart contract private audits. Please reach out to me on:
 
 - Twitter    - [@0xch301](https://twitter.com/0xch301)
 - Discord   - [Ch_301#1702](https://discord.com/users/Ch_301#1702)
+- Email Address - Ch301audit@gmail.com
+
 
