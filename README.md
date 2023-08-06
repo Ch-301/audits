@@ -6,7 +6,7 @@ Found over 80 Critical, High & Medium severity issues
 # Engagements
  | Project | Website | Twitter | Date | Report | 
 | :---         |     :---:      |     :---:     |     :---:    |          ---: |
-|  Blueberry   | [Blueberry.garden](https://www.blueberry.garden/)     |  [@BLBprotocol](https://twitter.com/BLBprotocol)    |   July 2023  | [Here](https://github.com/Ch-301/audits/tree/main/solo/blueberry/report.md)      | 
+|  Blueberry   | [Blueberry.garden](https://www.blueberry.garden/)     |  [@blueberryFDN](https://twitter.com/blueberryFDN)    |   July 2023  | [Here](https://github.com/Ch-301/audits/tree/main/solo/blueberry/report.md)      | 
 
 # Audit Contests
  | Contest | Platform | Date | Rank | Report | 
