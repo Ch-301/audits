@@ -1,5 +1,5 @@
 # Audits
- Public profile of my smart contract security auditing journey as a certified warden at [Code4rena](https://code4rena.com/) and watson at [Sherlock](https://app.sherlock.xyz/audits/contests) 
+ Public profile of my smart contract security auditing journey as a certified Warden at [Code4rena](https://code4rena.com/) and Watson at [Sherlock](https://app.sherlock.xyz/audits/contests) 
 
 Found over 80 Critical, High & Medium severity issues
 
@@ -20,10 +20,10 @@ Found over 80 Critical, High & Medium severity issues
 
 
 # Contacts
-I am available for smart contract private audits. Please reach out to me on:
+I am available for smart contract private security reviews. Please reach out to me on:
 
 - Twitter    - [@0xch301](https://twitter.com/0xch301)
 - Discord   - [Ch_301#1702](https://discord.com/users/Ch_301#1702)
-- Email Address - Ch301audit@gmail.com
+
 
 
