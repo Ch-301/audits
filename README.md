@@ -1,7 +1,11 @@
+
+![1500x500 new small](https://github.com/Ch-301/audits/assets/20110644/95c6adbe-c923-40b7-8c55-677c6784a533)
+
 # Audits
+
  Public profile of my smart contract security auditing journey as a certified Warden at [Code4rena](https://code4rena.com/) and Watson at [Sherlock](https://app.sherlock.xyz/audits/contests) 
 
-Found over 80 Critical, High & Medium severity issues
+Found over 85 Critical/High & Medium severity issues
 
 # Engagements
  | Project | Website | Twitter | Date | Report | 
