@@ -5,7 +5,7 @@
 
  Public profile of my smart contract security auditing journey as a certified Warden at [Code4rena](https://code4rena.com/) and Watson at [Sherlock](https://app.sherlock.xyz/audits/contests) 
 
-Found over 85 Critical/High & Medium severity issues
+Found over 100 Critical/High & Medium severity issues
 
 # TOP 5 In Audit Contests
  | Contest | Platform | Date | Rank | Report | 
