@@ -21,6 +21,11 @@ Found over 100 Critical/High & Medium severity issues
 | :---         |     :---:      |     :---:     |     :---:    |          ---: |
 |  Blueberry   | [Blueberry.garden](https://www.blueberry.garden/)     |  [@blueberryFDN](https://twitter.com/blueberryFDN)    |   July 2023  | [Here](https://github.com/Ch-301/audits/tree/main/solo/blueberry/report.md)      | 
 
+# My Profils
+- [Code4rena](https://code4rena.com/@Ch_301)
+- [Sherlock](https://audits.sherlock.xyz/watson/Ch_301)
+- [Cantina](https://cantina.xyz/u/Ch301)
+
 # Contacts
 I am available for smart contract private security reviews. Please reach out to me on:
 
