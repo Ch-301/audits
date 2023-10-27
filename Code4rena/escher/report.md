@@ -1,15 +1,15 @@
-# GoGoPool 
-Liquid staking for Avalanche.
+# Escher 
+A decentralized curated marketplace for editioned artwork.
 
 ## Rank
-70 / 111
+23 / 119
 
 ## High risk
 
-[H-01] https://github.com/code-423n4/2022-12-gogopool-findings/issues/425
+[H-01] https://github.com/code-423n4/2022-12-escher-findings/issues/497
 
 ## Med risk
 
-[M-01] https://github.com/code-423n4/2022-12-gogopool-findings/issues/423
+[M-01] https://github.com/code-423n4/2022-12-escher-findings/issues/502
 
-[M-02] https://github.com/code-423n4/2022-12-gogopool-findings/issues/420
+[M-02] https://github.com/code-423n4/2022-12-escher-findings/issues/495
