@@ -27,7 +27,7 @@ Found over 100 Critical/High & Medium severity issues
 - [Cantina](https://cantina.xyz/u/Ch301)
 
 # Contacts
-I am available for smart contract private security reviews. Please reach out to me on:
+I am available for smart contract security reviews and open to EVM collaborations. Please reach out to me at:
 
 - Twitter    - [@0xch301](https://twitter.com/0xch301)
 - Discord   - [Ch_301#1702](https://discord.com/users/Ch_301#1702)
