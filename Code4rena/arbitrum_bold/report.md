@@ -6,7 +6,7 @@ A new dispute protocol that unlocks permissionless validation for Arbitrum chain
 
 2nd
 
-## High risk - Finding not yet public
+## High risk
 
 [H-01] https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/37
 
