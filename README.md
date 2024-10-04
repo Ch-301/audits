@@ -1,5 +1,4 @@
 
-![1500x500 new small](https://github.com/Ch-301/audits/assets/20110644/95c6adbe-c923-40b7-8c55-677c6784a533)
 
 # Audits
 
