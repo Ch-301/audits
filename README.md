@@ -22,13 +22,13 @@ I found over 130 Critical/High & Medium severity issues.
 
 
 # Engagement / Invitational 
- | Project | Website | X | Date | Report | 
+ | Project | X | Date | Findings |Report | 
 | :---         |     :---:      |     :---:     |     :---:    |          ---: |
-|  NFTMirror [Pashov Grp]  | [Not Public]()     |  [Not Public](https://x.com/)    |   January 2025  | [Here (soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
-|  Coded Estate [C4] 🦀 | [CodedEstate.com](https://codedestate.com/)     |  [@codedestate](https://x.com/codedestate)    |   October 2024  | [Here](https://code4rena.com/reports/2024-10-coded-estate)      |
-|  Fenix Finance [C4]  | [FenixFinance.io](https://www.fenixfinance.io/)     |  [@FenixFinance](https://x.com/fenixfinance)    |   September 2024  | [Here](https://code4rena.com/reports/2024-09-fenix-finance)      |
-|  BendDAO [C4]  | [BendDao.xyz](https://www.benddao.xyz/en/)     |  [@BendDAO](https://x.com/benddao)    |   August 2024  | [Here](https://code4rena.com/reports/2024-07-benddao)      |
-|  Blueberry [Solo]  | [Blueberry.garden](https://www.blueberry.garden/)     |  [@blueberryFDN](https://twitter.com/blueberryFDN)    |   July 2023  | [Here](https://github.com/Ch-301/audits/tree/main/solo/blueberry/report.md)      | 
+|  NFTMirror [Pashov Grp]  |  [Not Public](https://x.com/)    |   January 2025  | x High, x Medium |[Here (soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
+|  Coded Estate [C4] 🦀   |  [@codedestate](https://x.com/codedestate)    |   October 2024  |10 High, 2 Medium | [Here](https://code4rena.com/reports/2024-10-coded-estate)      |
+|  Fenix Finance [C4]      |  [@FenixFinance](https://x.com/fenixfinance)    |   September 2024  | 1 High, 2 Medium |[Here](https://code4rena.com/reports/2024-09-fenix-finance)      |
+|  BendDAO [C4]      |  [@BendDAO](https://x.com/benddao)    |   August 2024  | 1 High, 8 Medium |[Here](https://code4rena.com/reports/2024-07-benddao)      |
+|  Blueberry [Solo]    |  [@blueberryFDN](https://twitter.com/blueberryFDN)    |   July 2023  | 6 High, 0 Medium |[Here](https://github.com/Ch-301/audits/tree/main/solo/blueberry/report.md)      | 
 
 # Top 3 Findings
  1- [Upgrades to EdgeChallengeManager changing staking requirement can cause funds loss](https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/49)
