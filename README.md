@@ -24,6 +24,7 @@ I found over 130 Critical/High & Medium severity issues.
 # Engagement / Invitational 
  | Project | X | Date | Findings |Report | 
 | :---         |     :---:      |     :---:     |     :---:    |          ---: |
+|  Onchain Heroes [Pashov Grp]  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | x High, x Medium |[Here (soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
 |  NFTMirror [Pashov Grp]  |  [Not Public](https://x.com/)    |   January 2025  | x High, x Medium |[Here (soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
 |  Coded Estate [C4] 🦀   |  [@codedestate](https://x.com/codedestate)    |   October 2024  |10 High, 2 Medium | [Here](https://code4rena.com/reports/2024-10-coded-estate)      |
 |  Fenix Finance [C4]      |  [@FenixFinance](https://x.com/fenixfinance)    |   September 2024  | 1 High, 2 Medium |[Here](https://code4rena.com/reports/2024-09-fenix-finance)      |
