@@ -27,7 +27,7 @@ I found over 130 Critical/High & Medium severity issues.
 |  Omo [Pashov Grp]  |  [@OmoProtocol](https://x.com/OmoProtocol)    |   January 2025  | x High, x Medium |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)   |
 |  Cardex [Pashov Grp]  |  [@cardex_space](https://x.com/cardex_space)    |   January 2025  | x High, x Medium |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)   |
 |  Onchain Heroes [Pashov Grp]  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | x High, x Medium |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
-|  NFTMirror [Pashov Grp]  |  [Not Public](https://x.com/)    |   January 2025  | x High, x Medium |[Announced](https://x.com/PashovAuditGrp/status/1882850592084926661)      |
+|  NFTMirror [Pashov Grp]  |  [@ApeCoin](https://x.com/apecoin)    |   January 2025  | x High, x Medium |[Announced](https://x.com/PashovAuditGrp/status/1882850592084926661)      |
 |  Coded Estate [C4] 🦀   |  [@codedestate](https://x.com/codedestate)    |   October 2024  |10 High, 2 Medium | [Report](https://code4rena.com/reports/2024-10-coded-estate)      |
 |  Fenix Finance [C4]      |  [@FenixFinance](https://x.com/fenixfinance)    |   September 2024  | 1 High, 2 Medium |[Report](https://code4rena.com/reports/2024-09-fenix-finance)      |
 |  BendDAO [C4]      |  [@BendDAO](https://x.com/benddao)    |   August 2024  | 1 High, 8 Medium |[Report](https://code4rena.com/reports/2024-07-benddao)      |
