@@ -23,7 +23,7 @@ I found over 160 Critical/High & Medium severity issues.
 # Engagement With Pashov Grp 
  | Project | X | Date |Report | 
 | :---         |     :---:      |     :---:     |          ---: |
-|  Omo   |  [@OmoProtocol](https://x.com/OmoProtocol)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)   |
+|  Omo   |  [@OmoProtocol](https://x.com/OmoProtocol)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Omo-security-review_2025-01-25.pdf)   |
 |  Cardex  |  [@cardex_space](https://x.com/cardex_space)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)   |
 |  Onchain Heroes  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
 |  NFTMirror   |  [@ApeCoin](https://x.com/apecoin)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/NFTMirror-security-review_2024-12-30.pdf)      |
