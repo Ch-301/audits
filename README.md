@@ -28,10 +28,10 @@ I found over 160 Critical/High & Medium severity issues.
 |  Onchain Heroes  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
 |  NFTMirror   |  [@ApeCoin](https://x.com/apecoin)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/NFTMirror-security-review_2024-12-30.pdf)      |
 |  Falcon  |  [@FalconStable](https://x.com/FalconStable)    |   February 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)      |
-|  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   February 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
+|  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   February 2025  | [Announced](https://x.com/PashovAuditGrp/status/1905270514274201819)         |
 |  BOB  |  [@build_on_bob](https://x.com/build_on_bob)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  Bio  |  [@bioprotocol](https://x.com/bioprotocol)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
-|  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
+|  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   March 2025  | [Announced](https://x.com/PashovAuditGrp/status/1905270514274201819)      |
 
 
 # Invitational 
