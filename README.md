@@ -32,6 +32,8 @@ I found over 160 Critical/High & Medium severity issues.
 |  BOB  |  [@build_on_bob](https://x.com/build_on_bob)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  Bio  |  [@bioprotocol](https://x.com/bioprotocol)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   March 2025  | [Announced](https://x.com/PashovAuditGrp/status/1905270514274201819)      |
+|  77bit   |  [@the77bit](https://x.com/the77bit)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
+|  Neutrl  |  [@neutrl_labs](https://x.com/neutrl_labs)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 
 
 # Invitational 
