@@ -4,7 +4,6 @@
 
 Public profile of my smart contract security auditing journey.
 
-I found over 160 Critical/High & Medium severity issues.
 # My Profiles
 - [Code4rena](https://code4rena.com/@Ch_301)
 - [Sherlock](https://audits.sherlock.xyz/watson/Ch_301)
