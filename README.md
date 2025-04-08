@@ -23,7 +23,7 @@ Public profile of my smart contract security auditing journey.
  | Project | X | Date |Report | 
 | :---         |     :---:      |     :---:     |          ---: |
 |  Omo   |  [@OmoProtocol](https://x.com/OmoProtocol)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Omo-security-review_2025-01-25.pdf)   |
-|  Cardex  |  [@cardex_space](https://x.com/cardex_space)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)   |
+|  Cardex  |  [@cardex_space](https://x.com/cardex_space)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Cardex-security-review_2025-01-21.pdf)   |
 |  Onchain Heroes  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
 |  NFTMirror   |  [@ApeCoin](https://x.com/apecoin)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/NFTMirror-security-review_2024-12-30.pdf)      |
 |  Falcon  |  [@FalconStable](https://x.com/FalconStable)    |   February 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)      |
