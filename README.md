@@ -24,15 +24,19 @@ Public profile of my smart contract security auditing journey.
 | :---         |     :---:      |     :---:     |          ---: |
 |  Omo   |  [@OmoProtocol](https://x.com/OmoProtocol)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Omo-security-review_2025-01-25.pdf)   |
 |  Cardex  |  [@cardex_space](https://x.com/cardex_space)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Cardex-security-review_2025-01-21.pdf)   |
-|  Onchain Heroes  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
+|  Onchain Heroes  |  [@OnchainHeroes](https://x.com/onchainheroes)    |   January 2025  | [(Here)](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf)      |
 |  NFTMirror   |  [@ApeCoin](https://x.com/apecoin)    |   January 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/NFTMirror-security-review_2024-12-30.pdf)      |
 |  Falcon  |  [@FalconStable](https://x.com/FalconStable)    |   February 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)      |
 |  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   February 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Hyperstable-security-review_2025-02-26.pdf)         |
 |  BOB  |  [@build_on_bob](https://x.com/build_on_bob)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  Bio  |  [@bioprotocol](https://x.com/bioprotocol)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   March 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Hyperstable-security-review_2025-03-19.pdf)      |
-|  77bit   |  [@the77bit](https://x.com/the77bit)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  Neutrl  |  [@neutrl_labs](https://x.com/neutrl_labs)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
+|  SXT  |  [@SpaceandTimeDB](https://x.com/SpaceandTimeDB/status/1851489916037054934?lang=en)    |   April 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
+|   Blueberry  |  [@blueberryFDN](https://x.com/blueberryFDN)   |   April 2025  | [(Announced)](https://x.com/PashovAuditGrp/status/1928073338100011263)       |
+|   Gatcha  |  [@Gatcha](https://x.com/)   |   May 2025  |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)     |
+|   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
+
 
 
 # Invitational 
@@ -48,10 +52,8 @@ Public profile of my smart contract security auditing journey.
 
  2- [Attacker will claim all past epochs](https://cantina.xyz/code/ac757733-81a4-43c7-8f49-17c5b135cdff/findings/403)
 
- 3-
+ 3- [Reentrancy attack in authorizedOpenPacket() allows duplicates](https://github.com/pashov/audits/tree/master/team/pdf) (Soon Public)
 
-# Write-ups
-soon
 
 # Contacts
 I am available for smart contract security reviews and open to collaborations. Please reach out to me at:
