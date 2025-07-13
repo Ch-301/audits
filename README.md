@@ -36,6 +36,7 @@ Public profile of my smart contract security auditing journey.
 |   Blueberry  |  [@blueberryFDN](https://x.com/blueberryFDN)   |   April 2025  | [(Announced)](https://x.com/PashovAuditGrp/status/1928073338100011263)       |
 |   Gatcha  |  [@Gatcha](https://x.com/)   |   May 2025  |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)     |
 |   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
+|   Itos  |  [@X](https://x.com)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Itos-security-review_2025-05-24.pdf)      |
 
 
 
