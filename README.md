@@ -33,7 +33,7 @@ Public profile of my smart contract security auditing journey.
 |  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   March 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Hyperstable-security-review_2025-03-19.pdf)      |
 |  Neutrl  |  [@neutrl_labs](https://x.com/neutrl_labs)    |   March 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |  SXT  |  [@SpaceandTimeDB](https://x.com/SpaceandTimeDB/status/1851489916037054934?lang=en)    |   April 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
-|   Blueberry  |  [@blueberryFDN](https://x.com/blueberryFDN)   |   April 2025  | [(Announced)](https://x.com/PashovAuditGrp/status/1928073338100011263)       |
+|   Blueberry  |  [@blueberryFDN](https://x.com/blueberryFDN)   |   April 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Blueberry-security-review_2025-04-30.pdf)       |
 |   Gatcha  |  [@Gatcha](https://x.com/)   |   May 2025  |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)     |
 |   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
 |   Itos  |  [@X](https://x.com)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Itos-security-review_2025-05-24.pdf)      |
