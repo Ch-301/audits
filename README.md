@@ -53,7 +53,7 @@ Public profile of my smart contract security auditing journey.
 
  2- [Attacker will claim all past epochs](https://cantina.xyz/code/ac757733-81a4-43c7-8f49-17c5b135cdff/findings/403)
 
- 3- [Reentrancy attack in authorizedOpenPacket() allows duplicates](https://github.com/pashov/audits/tree/master/team/pdf) (Soon Public)
+ 3- [Reentrancy attack in authorizedOpenPacket() allows duplicates](https://github.com/PashovAuditGroup/RipIt_May25_MERGED/issues/48) (Soon Public)
 
 
 # Contacts
