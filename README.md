@@ -35,7 +35,7 @@ Public profile of my smart contract security auditing journey.
 |  SXT  |  [@SpaceandTimeDB](https://x.com/SpaceandTimeDB/status/1851489916037054934?lang=en)    |   April 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)       |
 |   Blueberry  |  [@blueberryFDN](https://x.com/blueberryFDN)   |   April 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Blueberry-security-review_2025-04-30.pdf)       |
 |   Gatcha  |  [@Gatcha](https://x.com/)   |   May 2025  |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)     |
-|   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)      |
+|   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-05-10.pdf)      |
 |   Itos  |  [@X](https://x.com)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Itos-security-review_2025-05-24.pdf)      |
 |   Covenant  |  [@covenantFi](https://x.com/covenantFi)   |   August 2025  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)        |
 
@@ -54,7 +54,7 @@ Public profile of my smart contract security auditing journey.
 
  2- [Attacker will claim all past epochs](https://cantina.xyz/code/ac757733-81a4-43c7-8f49-17c5b135cdff/findings/403)
 
- 3- [Reentrancy attack in authorizedOpenPacket() allows duplicates](https://github.com/PashovAuditGroup/RipIt_May25_MERGED/issues/48) (Soon Public)
+ 3- [Reentrancy attack in authorizedOpenPacket() allows duplicates](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-05-10.pdf) 
 
 
 # Contacts
