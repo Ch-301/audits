@@ -38,6 +38,11 @@ Public profile of my smart contract security auditing journey.
 |   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-05-10.pdf)      |
 |   Itos  |  [@X](https://x.com)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Itos-security-review_2025-05-24.pdf)      |
 |   Covenant  |  [@covenantFi](https://x.com/covenantFi)   |   August 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Covenant-security-review_2025-08-18.pdf)        |
+|   Napier  |  [@NapierFinance](https://x.com/NapierFinance)   |   September 2025  | [Announced](https://x.com/PashovAuditGrp/status/1994354750586753084)        |
+|   Polyester  |  [@X](https://x.com)    |   October 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
+|   Euler Labs  |  [@eulerfinance](https://x.com/eulerfinance)    |   November 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
+
+
 
 
 
