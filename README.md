@@ -41,6 +41,8 @@ Public profile of my smart contract security auditing journey.
 |   Napier  |  [@NapierFinance](https://x.com/NapierFinance)   |   September 2025  | [Announced](https://x.com/PashovAuditGrp/status/1994354750586753084)        |
 |   Polyester  |  [@X](https://x.com)    |   October 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
 |   Euler Labs  |  [@eulerfinance](https://x.com/eulerfinance)    |   November 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
+|   Tangent  |   [@X](https://x.com)   |   December 2025  |  [Here](https://github.com/pashov/audits/blob/master/team/pdf/Tangent-security-review_2025-12-08.pdf)         |
+|   Pump fun 🦀 |   [@Pumpfun](https://x.com/Pumpfun)   |   December 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
 
 
 
