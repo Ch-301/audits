@@ -43,6 +43,7 @@ Public profile of my smart contract security auditing journey.
 |   Euler Labs  |  [@eulerfinance](https://x.com/eulerfinance)    |   November 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
 |   Tangent  |   [@X](https://x.com)   |   December 2025  |  [Here](https://github.com/pashov/audits/blob/master/team/pdf/Tangent-security-review_2025-12-08.pdf)         |
 |   Pump fun 🦀 |   [@Pumpfun](https://x.com/Pumpfun)   |   December 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
+|  Trove   |   [@X](https://x.com)     |   January 2026  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Trove-security-review_2026-01-04.pdf)   |
 
 
 
