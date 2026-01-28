@@ -37,6 +37,8 @@ Public profile of my smart contract security auditing journey.
 |   Gatcha  |  [@Gatcha](https://x.com/)   |   May 2025  |[(soon)](https://github.com/pashov/audits/tree/master/team/pdf)     |
 |   Rip It  |  [@ripdotfun](https://x.com/ripdotfun)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-05-10.pdf)      |
 |   Itos  |  [@X](https://x.com)   |   May 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Itos-security-review_2025-05-24.pdf)      |
+|   Hyperbloom   |  [@hyperbloomxyz](https://x.com/hyperbloomxyz)   |   June  2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Hyperbloom-security-review_2025-06-24.pdf)        |
+|  Hyperstable  |  [@HyperstableX](https://x.com/HyperstableX)    |   June 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Hyperstable-security-review_2025-06-03.pdf)         |
 |   Covenant  |  [@covenantFi](https://x.com/covenantFi)   |   August 2025  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Covenant-security-review_2025-08-18.pdf)        |
 |   Napier  |  [@NapierFinance](https://x.com/NapierFinance)   |   September 2025  | [Announced](https://x.com/PashovAuditGrp/status/1994354750586753084)        |
 |   Polyester  |  [@X](https://x.com)    |   October 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
