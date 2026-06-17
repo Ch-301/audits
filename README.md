@@ -47,6 +47,12 @@ Public profile of my smart contract security auditing journey.
 |   Pump fun 🦀 |   [@Pumpfun](https://x.com/Pumpfun)   |   December 2025  |  [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)         |
 |  Trove   |   [@X](https://x.com)     |   January 2026  | [Here](https://github.com/pashov/audits/blob/master/team/pdf/Trove-security-review_2026-01-04.pdf)   |
 |  HyperLend   |   [@hyperlendx](https://x.com/hyperlendx)     |   January 2026  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)  |
+|  OpinionLabs  |   [@opinionlabsxyz](https://x.com/opinionlabsxyz)     |   February 2026  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)  |
+|  OlympusX  |   [@OlympusXReserve](https://x.com/OlympusXReserve)     |   February 2026  | [Announced](https://x.com/PashovAuditGrp/status/2054590375327653989)  |
+|  Pumpcade 🦀 |   [@pumpcade](https://x.com/pumpcade)     |   April 2026  | [Announced](https://x.com/PashovAuditGrp/status/2047745565123809315)  |
+|  Pump fun 🦀 |    [@Pumpfun](https://x.com/Pumpfun)     |   May 2026  | [(soon)](https://github.com/pashov/audits/tree/master/team/pdf)  |
+
+
 
 
 
